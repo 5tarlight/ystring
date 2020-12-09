@@ -1,0 +1,15 @@
+{
+  "name": "yeahstring",
+  "version": "1.0.0",
+  "description": "oooowsome string lib",
+  "main": "dist/index.js",
+  "repository": "https://github.com/5tarlight/ystring",
+  "author": "5tarlight <developerstarlight@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "string",
+    "library",
+    "replaceAll"
+  ]
+}
